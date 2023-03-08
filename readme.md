@@ -8,11 +8,11 @@
 
 1. The final output should similar to this:
 
-![BaseOnThis] (https://i.imgur.com/YPKcP0M.png)
+![BaseOnThis](https://i.imgur.com/YPKcP0M.png)
 
 2. Add a component similar to this:
 
-![ComponentToAdd] (https://i.imgur.com/D2NMWjo.png)
+![ComponentToAdd](https://i.imgur.com/D2NMWjo.png)
 
 3. We have no access of the assets, feel free to download similar images to google.
 
