@@ -20,7 +20,7 @@
 
 ## Steps:
 
-### 1. First we need to download the images on google and put it on a separate folder.
+### 1. First we need to take the pictures from the initial task and put it on a separate folder.
 
 ### 2. We will create an HTML file named "index" and write the basic starting HTML tags.
 
